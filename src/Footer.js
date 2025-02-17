@@ -29,7 +29,7 @@ const Footer = () => {
         </a>
 
         {/* Email */}
-        <a href="eanok072000@gmail.com" style={styles.icon}>
+        <a href="mailto:eanok072000@gmail.com" style={styles.icon}>
       
           <FaEnvelope />
         </a>
